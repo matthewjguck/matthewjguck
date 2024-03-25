@@ -1,16 +1,17 @@
-### Hi there 👋
+![SLATT (2)](https://github.com/matthewjguck/matthewjguck/assets/160309784/39abe7ed-4e76-48af-8c7a-d82f731a9639)
+<h1>Hi, I'm <b>Matthew</b>!</h1>
 
-<!--
-**matthewjguck/matthewjguck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Sophomore studying <b>Computer Science</b> and <b>Design</b> at Stanford University. 🌲
+My focus is currently Human-Computer Interaction, but I am still discovering all that CS has to offer!
 
-Here are some ideas to get you started:
+### Outside of Coding
+• I am the Stanford Class of 2026 President @ [Stanford L.I.F.T.](https://www.instagram.com/stanfordlift/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• I am a founder @ [TheCupidProject](thecupidproject.org), an annual card-giving project delivering to nursing homes every Valentine's Day since 2018. 
+
+• I play the violin, classical guitar, ukelele (WIP), and piano (WIP).
+
+• I love to create things— art, music, web apps, friendships, etc.
+
+Much like my uke and piano skills, my GitHub is very much a Work In Progress; <br>
+nevertheless, I hope you enjoy purusing my projects!
