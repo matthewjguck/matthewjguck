@@ -1,7 +1,7 @@
 ![SLATT (2)](https://github.com/matthewjguck/matthewjguck/assets/160309784/39abe7ed-4e76-48af-8c7a-d82f731a9639)
 <h1>Hi, I'm <b>Matthew</b>!</h1>
 
-I'm a Sophomore studying <b>Computer Science</b> and <b>Design</b> at Stanford University. 🌲
+I'm a Junior studying <b>Computer Science</b> and <b>Design</b> at Stanford University. 🌲
 My focus is currently Human-Computer Interaction, but I am still discovering all that CS has to offer!
 
 ### Outside of Coding
