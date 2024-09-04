@@ -7,7 +7,7 @@ My focus is currently Human-Computer Interaction, but I am still discovering all
 ### Outside of Coding
 • I am the Stanford Class of 2026 President @ [Stanford L.I.F.T.](https://www.instagram.com/stanfordlift/)
 
-• I am a founder @ [TheCupidProject](thecupidproject.org), an annual card-giving project delivering to nursing homes every Valentine's Day since 2018. 
+• I am a founder @ [TheCupidProject](https://www.thecupidproject.org), an annual card-giving project delivering to nursing homes every Valentine's Day since 2018. 
 
 • I play the violin, classical guitar, ukelele (WIP), and piano (WIP).
 
