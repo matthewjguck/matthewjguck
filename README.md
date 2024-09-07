@@ -15,3 +15,5 @@ My focus is currently Human-Computer Interaction, but I am still discovering all
 
 Much like my uke and piano skills, my GitHub is very much a Work In Progress; <br>
 nevertheless, I hope you enjoy purusing my projects!
+
+View my portfolio [here](https://matthewjguck.github.io/)
